@@ -45,16 +45,16 @@ Machine Learning: Open spacex_ML_pred.ipynb to run the models, optimize hyperpar
 # Results
 After exploring, visualizing, and modeling the data, the project yielded the following insights:
 
-The success rate of the launches increased over time from 2013 to 2020.
-There were several factors that generally contributed to higher success rates including lower payload masses, larger flight numbers, and orbit type.
-Orbit types ES-L1, GEO, HEO, and SSO all had very high success rates.
-Launch Site KSC LC-39A had the best success rate.
-Decision tree model is the best algorithm for the dataset.
+- The success rate of the launches increased over time from 2013 to 2020.
+- There were several factors that generally contributed to higher success rates including lower payload masses, larger flight numbers, and orbit type.
+- Orbit types ES-L1, GEO, HEO, and SSO all had very high success rates.
+- Launch Site KSC LC-39A had the best success rate.
+- Decision tree model is the best algorithm for the dataset.
 
 # Future Work
 Further analysis could include:
-Analyzing additional external factors like weather conditions or wind speeds at launch.
-Incorporating real-time tracking data and expanding the model to more complex deep learning architectures.
-Acknowledgments
+- Analyzing additional external factors like weather conditions or wind speeds at launch.
+- Incorporating real-time tracking data and expanding the model to more complex deep learning architectures.
+# Acknowledgments
 Special thanks to IBM and Coursera for providing the dataset and project guidance. This project is part of the IBM Data Science Professional Certificate Capstone course.
 
